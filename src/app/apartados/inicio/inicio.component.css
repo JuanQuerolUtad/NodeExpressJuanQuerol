@@ -1,7 +1,7 @@
 div{
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 .carta{
@@ -9,6 +9,10 @@ div{
     width: 30vw;
     border-radius: 10px;
     background-color: rgb(148, 223, 138);
+    overflow-y: scroll;
+}
+p{
+    width: 20vw;
 }
 .carta:hover{
    
@@ -30,4 +34,13 @@ figure{
     display:flex;
     justify-content: center;
     align-items: center;
+    
+}
+@media screen and (max-width: 768px) {
+    #cartas{
+        display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    }
 }
