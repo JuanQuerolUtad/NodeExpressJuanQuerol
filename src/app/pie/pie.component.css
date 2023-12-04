@@ -1,0 +1,9 @@
+footer{
+    background-color: rgb(243, 171, 171);
+    
+    height: 15vh;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+}

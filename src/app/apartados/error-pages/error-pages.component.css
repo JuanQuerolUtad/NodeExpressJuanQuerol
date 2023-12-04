@@ -1,0 +1,10 @@
+div{
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    height: 20rem;
+}

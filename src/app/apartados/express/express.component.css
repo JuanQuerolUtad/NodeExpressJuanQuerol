@@ -1,0 +1,31 @@
+#express{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+p{
+    width: 50rem;
+    font-size: 20px;
+}
+.imagen{
+    height: 20rem;
+}
+#botones{
+    width: 50rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.boton{
+    height: 5rem;
+    width: 6rem;
+    background-color: rgb(224, 160, 160);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boton:hover{
+    background-color: rgb(224, 144, 144);
+}

@@ -1,0 +1,28 @@
+header{
+    background-color: rgb(243, 171, 171);
+    
+    height: 15vh;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.botonesNav{
+    height: 15vh;
+    width: 10vw;
+    background-color: rgb(243, 171, 171);
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.botonesNav:hover{
+    
+    background-color: rgb(236, 150, 150);
+    
+}
+#opciones{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
