@@ -20,12 +20,12 @@ p{
 .boton{
     height: 5rem;
     width: 6rem;
-    background-color: rgb(224, 160, 160);
+    background-color: rgb(148, 223, 138);
     border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .boton:hover{
-    background-color: rgb(224, 144, 144);
+    background-color: rgb(141, 196, 99);
 }

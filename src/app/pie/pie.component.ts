@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./pie.component.css']
 })
 export class PieComponent {
-
+ url(){
+  window.location.href='https://github.com/JuanQuerolUtad'
+ }
 }

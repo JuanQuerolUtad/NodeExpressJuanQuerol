@@ -8,12 +8,12 @@ div{
     height: 30rem;
     width: 30vw;
     border-radius: 10px;
-    background-color: rgb(229, 112, 112);
+    background-color: rgb(148, 223, 138);
 }
 .carta:hover{
    
     
-    background-color: rgb(196, 99, 99);
+    background-color: rgb(141, 196, 99);
 }
 #cartas{
     width: 100vw;

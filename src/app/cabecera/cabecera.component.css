@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(243, 171, 171);
+    background-color: rgb(179, 243, 171);
     
     height: 15vh;
     display:flex;
@@ -10,7 +10,7 @@ header{
 .botonesNav{
     height: 15vh;
     width: 10vw;
-    background-color: rgb(243, 171, 171);
+    background-color: rgb(179, 243, 171);
     
     display:flex;
     justify-content: center;
@@ -18,7 +18,7 @@ header{
 }
 .botonesNav:hover{
     
-    background-color: rgb(236, 150, 150);
+    background-color: rgb(180, 236, 150);
     
 }
 #opciones{
