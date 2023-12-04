@@ -5,15 +5,14 @@ div{
     align-items: center;
 }
 .carta{
-    height: 27rem;
+    height: 30rem;
     width: 30vw;
     border-radius: 10px;
     background-color: rgb(229, 112, 112);
 }
 .carta:hover{
-    height: 27rem;
-    width: 30vw;
-    border-radius: 10px;
+   
+    
     background-color: rgb(196, 99, 99);
 }
 #cartas{
